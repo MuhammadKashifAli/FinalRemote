@@ -1,3 +1,5 @@
 This is my first file
 
 Changes for reset
+
+This change is for master branch
